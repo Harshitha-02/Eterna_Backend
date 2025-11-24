@@ -2,6 +2,17 @@
 
 Market order execution • DEX routing • WebSocket live updates • BullMQ queue • PostgreSQL persistence
 
+🌐 Live Deployment
+
+Backend URL:
+👉 https://eterna-backend-assessment-ahm4.onrender.com
+
+API Endpoint:
+POST https://eterna-backend-assessment-ahm4.onrender.com/api/orders/execute
+
+WebSocket Endpoint:
+wss://eterna-backend-assessment-ahm4.onrender.com/api/orders/ws?orderId=<id>
+
 📌 Overview
 
 This project implements a mock Solana order execution engine, designed to simulate how a real trading backend routes and executes swap orders across multiple DEXs.
