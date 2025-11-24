@@ -5,7 +5,7 @@ Market order execution • DEX routing • WebSocket live updates • BullMQ que
 🌐 Live Deployment
 
 Backend URL:
-👉 https://eterna-backend-assessment-ahm4.onrender.com
+👉 https://eterna-backend-viqx.onrender.com
 
 API Endpoint:
 POST https://eterna-backend-assessment-ahm4.onrender.com/api/orders/execute
